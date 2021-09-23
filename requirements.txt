@@ -1,0 +1,7 @@
+nltk==3.6.2
+spacy==3.0.7
+numpy==1.19.5
+scispacy==0.4.0
+networkx==2.6.3
+spacy_transformers==1.0.6
+scikit_learn==0.24.2
