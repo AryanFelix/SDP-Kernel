@@ -6053,7 +6053,7 @@
       <entity charOffset="61-84" id="WhiteTextUnseenEval.d1843.s9.e0" origId="3122" text="superior temporal sulcus" type="Individual_protein" />
       <entity charOffset="111-137" id="WhiteTextUnseenEval.d1843.s9.e1" origId="3123" text="middle temporal visual area" type="Individual_protein" />
       <entity charOffset="162-176" id="WhiteTextUnseenEval.d1843.s9.e2" origId="3124" text="annectant gyrus" type="Individual_protein" />
-      <entity charOffset="179-180" id="WhiteTextUnseenEval.d1843.s9.e3" origId="3125" text="V3" type="Individual_protein" />
+      <entity charOffset="179-180" id="WhiteTextUnseenEval.d1843.s9.e3" origId="3125" text="V3A" type="Individual_protein" />
       <pair interaction="False" id="WhiteTextUnseenEval.d1843.s9.p0" e1="WhiteTextUnseenEval.d1843.s9.e1" e2="WhiteTextUnseenEval.d1843.s9.e0" />
       <pair interaction="False" id="WhiteTextUnseenEval.d1843.s9.p1" e1="WhiteTextUnseenEval.d1843.s9.e2" e2="WhiteTextUnseenEval.d1843.s9.e0" />
       <pair interaction="False" id="WhiteTextUnseenEval.d1843.s9.p2" e1="WhiteTextUnseenEval.d1843.s9.e2" e2="WhiteTextUnseenEval.d1843.s9.e1" />
