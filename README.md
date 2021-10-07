@@ -1,6 +1,10 @@
 # Shortest Path Dependency Kernel for Relation Extraction
 An Implementation of "Shortest Path Dependency Kernel for Relation Extraction" by R. Bunescu and R. Mooney.
 
+## Steps to Run
+- Run `TwoEntities.ipynb` if entries with only two entities are to be considered.
+- Run `MultipleEntities.ipynb` / `MultipleEntities.py` if entries with multiple entities are also to be considered.
+
 ## Citation
 ### Paper
 ```
